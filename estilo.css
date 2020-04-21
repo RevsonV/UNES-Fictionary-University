@@ -1,0 +1,29 @@
+#body {
+    background-image: url("imagens/fundo.png");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#body2 {
+    background-image: url("imagens/fundo2.png");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#principal {
+    width: 900px;
+    margin: auto;
+    padding: 14.5px;
+}
+
+#menu {
+    text-align: right;
+}
+
+#copyright {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: slateblue;
+    font-weight: bold;
+}
